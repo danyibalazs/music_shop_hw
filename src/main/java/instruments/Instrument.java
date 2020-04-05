@@ -2,17 +2,18 @@ package instruments;
 
 import behaviour.IPlay;
 import behaviour.ISell;
+import shop.ItemTypes;
 
 public abstract class Instrument implements IPlay, ISell {
 
     private String make;
-    private String type;
+    private ItemTypes type;
     private String color;
     private String material;
     private double buyPrice;
     private double sellPrice;
 
-    public Instrument(String type, String make, String color, String material, double buyPrice, double sellPrice){
+    public Instrument(ItemTypes type, String make, String color, String material, double buyPrice, double sellPrice){
         this.type = type;
         this.make = make;
         this.color = color;
@@ -25,7 +26,7 @@ public abstract class Instrument implements IPlay, ISell {
         return make;
     }
 
-    public String getType() {
+    public ItemTypes getType() {
         return type;
     }
 

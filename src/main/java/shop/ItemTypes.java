@@ -1,0 +1,14 @@
+package shop;
+
+public enum ItemTypes {
+    ELECTRICDRUMS,
+    ACOUSTICDRUMS,
+    ELECTRICGUITAR,
+    ACOUSTICGUITAR,
+    PIANO,
+    SYNTHESIZER,
+    GUITARCOMBO,
+    GUITARCAB,
+    DRUMSTICK,
+    BRUSH
+}
