@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9629a76-e86a-4541-9b16-5617e12a3eb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/instruments/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/accessories/Accessory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/accessories/Amp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/behaviour/ISell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behaviour/ISell.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/instruments/Drum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/instruments/Drum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/instruments/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/instruments/Guitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/instruments/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/instruments/Instrument.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/instruments/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/instruments/Keyboard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,10 +71,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1586101849991">
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1586103903393">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/0.23.1440.825/1440.91.1920.1057@0.23.1440.825" timestamp="1586101849991" />
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/0.23.1440.825/1440.91.1920.1057@0.23.1440.825" timestamp="1586103903393" />
     <state x="486" y="302" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586101577658">
       <screen x="0" y="23" width="1440" height="825" />
     </state>

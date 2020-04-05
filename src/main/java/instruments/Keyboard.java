@@ -6,7 +6,8 @@ public class Keyboard extends Instrument {
 
     private int numberOfKeys;
 
-    public Keyboard(int numberOfKeys){
+    public Keyboard(String make, String type, String color, String material, double buyPrice, double sellPrice, int numberOfKeys){
+        super(make, type, color, material, buyPrice, sellPrice);
         this.numberOfKeys = numberOfKeys;
     }
 

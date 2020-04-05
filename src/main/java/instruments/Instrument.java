@@ -1,8 +1,9 @@
 package instruments;
 
 import behaviour.IPlay;
+import behaviour.ISell;
 
-public abstract class Instrument implements IPlay {
+public abstract class Instrument implements IPlay, ISell {
 
     private String make;
     private String type;
@@ -42,5 +43,9 @@ public abstract class Instrument implements IPlay {
 
     public double getSellPrice() {
         return sellPrice;
+    }
+
+    public double calculateMarkup() {
+        return sellPrice - buyPrice;
     }
 }
