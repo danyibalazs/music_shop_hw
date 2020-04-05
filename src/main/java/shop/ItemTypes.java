@@ -1,8 +1,8 @@
 package shop;
 
 public enum ItemTypes {
-    ELECTRICDRUMS,
-    ACOUSTICDRUMS,
+    ELECTRICDRUM,
+    ACOUSTICDRUM,
     ELECTRICGUITAR,
     ACOUSTICGUITAR,
     PIANO,

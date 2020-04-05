@@ -1,13 +1,14 @@
 package instruments;
 
 import behaviour.IPlay;
+import shop.ItemTypes;
 
 public class Keyboard extends Instrument {
 
     private int numberOfKeys;
 
-    public Keyboard(String make, String type, String color, String material, double buyPrice, double sellPrice, int numberOfKeys){
-        super(make, type, color, material, buyPrice, sellPrice);
+    public Keyboard(ItemTypes type, String make, String color, String material, double buyPrice, double sellPrice, int numberOfKeys){
+        super(type, make, color, material, buyPrice, sellPrice);
         this.numberOfKeys = numberOfKeys;
     }
 

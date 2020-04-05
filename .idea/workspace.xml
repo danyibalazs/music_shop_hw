@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9629a76-e86a-4541-9b16-5617e12a3eb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/shop/ItemTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/accessories/Amp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accessories/Amp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/accessories/Stick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accessories/Stick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/instruments/Drum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/instruments/Drum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/instruments/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/instruments/Guitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/instruments/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/instruments/Keyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shop/ItemTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shop/ItemTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shop/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ShopTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +60,65 @@
       <recent name="behaviour" />
     </key>
   </component>
+  <component name="RunManager" selected="JUnit.ShopTest.checkProfit">
+    <configuration name="All in MusicShopHw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShopHw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.canPlayInstruments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShopHw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="canPlayInstruments" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.checkProfit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShopHw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="checkProfit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.shopCanRemoveItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShopHw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="shopCanRemoveItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.shopHasItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShopHw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="shopHasItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShopTest.checkProfit" />
+        <item itemvalue="JUnit.ShopTest.canPlayInstruments" />
+        <item itemvalue="JUnit.ShopTest.shopCanRemoveItem" />
+        <item itemvalue="JUnit.All in MusicShopHw" />
+        <item itemvalue="JUnit.ShopTest.shopHasItem" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,6 +141,22 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="486" y="302" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.825/1440.91.1920.1057@0.23.1440.825" timestamp="1586101577658" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1586106946107">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.825/1440.91.1920.1057@0.23.1440.825" timestamp="1586106946107" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1586106946107">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.825/1440.91.1920.1057@0.23.1440.825" timestamp="1586106946107" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1586106946106">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.825/1440.91.1920.1057@0.23.1440.825" timestamp="1586106946106" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1586106946107">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.825/1440.91.1920.1057@0.23.1440.825" timestamp="1586106946107" />
     <state x="397" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1586100750913">
       <screen x="0" y="23" width="1440" height="825" />
     </state>

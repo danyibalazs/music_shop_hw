@@ -1,13 +1,14 @@
 package instruments;
 
 import behaviour.IPlay;
+import shop.ItemTypes;
 
 public class Drum extends Instrument{
 
     private int bassDrumSize;
 
-    public Drum(String make, String type, String color, String material, double buyPrice, double sellPrice, int bassDrumSize) {
-        super(make, type, color, material, buyPrice, sellPrice);
+    public Drum(ItemTypes type, String make, String color, String material, double buyPrice, double sellPrice, int bassDrumSize) {
+        super(type, make, color, material, buyPrice, sellPrice);
         this.bassDrumSize = bassDrumSize;
     }
 
