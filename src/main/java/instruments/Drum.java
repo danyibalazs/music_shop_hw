@@ -2,7 +2,7 @@ package instruments;
 
 import behaviour.IPlay;
 
-public class Drum implements IPlay {
+public class Drum extends Instrument{
 
     private int bassDrumSize;
 

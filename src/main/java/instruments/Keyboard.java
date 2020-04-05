@@ -2,7 +2,7 @@ package instruments;
 
 import behaviour.IPlay;
 
-public class Keyboard implements IPlay {
+public class Keyboard extends Instrument {
 
     private int numberOfKeys;
 
